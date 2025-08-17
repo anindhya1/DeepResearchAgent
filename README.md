@@ -2,6 +2,8 @@
 
 An AI-powered multi-agent research assistant that can plan, search, analyze, and write comprehensive research reports, with optional email delivery.
 
+**Live demo:** https://huggingface.co/spaces/Anindhya/DeepResearchTool
+
 ---
 
 ## Overview
